@@ -97,6 +97,8 @@ Please check our contribution guidelines and join our development community.
 ---
 
 ### Contract Details
-Contract Address 0x21d4e22ecadb68b1c296bc1377ca5719967a09d40631cc3872196f01bffbf911
+Contract Address STVKYFYESZ39Q9QVH7DJMGND3XJH6C01APT86CBZ.rental-nft
+
+
 ScreenShot
 ![alt text](<Screenshot 2025-08-21 214032-1.png>)
